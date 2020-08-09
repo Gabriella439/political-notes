@@ -1,8 +1,7 @@
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
--- List of themes: https://neuron.zettel.page/2014601.html
+{ siteTitle = "Notes"
+, author = Some "Gabriel Gonzalez"
+, siteBaseUrl = Some "https://gabriel439.github.io/notes/"
 , theme = "teal"
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, editUrl = Some "https://github.com/Gabriel439/notes/edit/master/"
 , mathJaxSupport = False
 }
