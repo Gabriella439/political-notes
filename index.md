@@ -2,12 +2,17 @@
 tags: [home]
 ---
 
-# Neuron Template
+# Notes
 
-You are viewing a [neuron-template](https://github.com/srid/neuron-template) Zettelkasten published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+This is a collection of notes that I share with people when discussing
+politics.  Feel free to contribute your own fixes and improvements by clicking
+the Edit button at the top of each page.
 
-Get started by reading <README>.
+If you are a power user, you can add new notes by:
 
-Other pages on this zettelkasten (this demonstrates how to use tag queries):
+* … cloning [this repository](https://github.com/Gabriel439/notes),
+* … using [the `neuron` tool](https://github.com/srid/neuron) to create one or
+  more new notes, and:
+* … [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) with your change.
 
-<z:zettels?tag=other>
+<z:zettels>
