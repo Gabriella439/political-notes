@@ -15,4 +15,4 @@ If you are a power user, you can add new notes by:
   more new notes, and:
 * … [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) with your change.
 
-<z:zettels>
+[[z:zettels?cf]]

@@ -17,8 +17,8 @@ If switching costs don't matter, then score voting is strictly superior to
 approval voting.  Approval voting is a special case of score voting where you
 can only select one of two scores for each candidate.
 
-You should <23d13582> because approval voting is simpler and leads to strictly
-superior voter satisfaction.
+You should [[[prefer approval voting over ranked-choice voting]]] because
+approval voting is simpler and leads to strictly superior voter satisfaction.
 
 To learn more about approval voting, read:
 
