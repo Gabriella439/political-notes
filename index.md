@@ -6,13 +6,13 @@ tags: [home]
 
 This is a collection of notes that I share with people when discussing
 politics.  Feel free to contribute your own fixes and improvements by clicking
-the Edit button at the top of each page.
+the edit button at the top of each page.
 
-If you are a power user, you can add new notes by:
+You can suggest changes or improvements using the
+[issue tracker](https://github.com/Gabriel439/notes/issues), or if you are a
+power user, you can add new notes by cloning
+[this repository](https://github.com/Gabriel439/notes) and
+[creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+with your change.
 
-* … cloning [this repository](https://github.com/Gabriel439/notes),
-* … using [the `neuron` tool](https://github.com/srid/neuron) to create one or
-  more new notes, and:
-* … [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) with your change.
-
-[[z:zettels?cf]]
+[[z:zettels]]
