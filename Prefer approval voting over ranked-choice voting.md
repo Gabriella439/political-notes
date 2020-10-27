@@ -1,6 +1,4 @@
-# Prefer approval voting over ranked-choice voting
-
-[[approval voting]] improves upon ranked-choice voting in the following ways:
+[[Approval voting]] improves upon ranked-choice voting in the following ways:
 
 * Approval voting leads to greater voter satisfaction
 

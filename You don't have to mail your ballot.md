@@ -1,5 +1,3 @@
-# You don't have to mail your ballot
-
 People commonly refer to absentee voting as "voting by mail" or "mail-in
 voting", but those names are potentially misleading because you do need to
 return your ballot by mail.

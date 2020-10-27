@@ -1,5 +1,3 @@
-# Expand the House of Representatives
-
 Expanding the number of Representatives is a U.S. political reform with a high
 power-to-weight ratio.  Currently 435 Representatives serve in the House, and
 one estimate from 2018 identified 930 Representatives as one possible sweet

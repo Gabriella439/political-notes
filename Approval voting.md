@@ -1,5 +1,3 @@
-# Approval voting
-
 > Approval voting is a single-winner voting method that allows voters to
 > choose any number of candidates. The candidate chosen the most wins
 >
@@ -13,7 +11,7 @@ If switching costs don't matter, then score voting is strictly superior to
 approval voting.  Approval voting is a special case of score voting where you
 can only select one of two scores for each candidate.
 
-You should [[[prefer approval voting over ranked-choice voting]]] because
+You should [[[Prefer approval voting over ranked-choice voting]]] because
 approval voting is simpler and leads to strictly superior voter satisfaction.
 
 To learn more about approval voting, read:
