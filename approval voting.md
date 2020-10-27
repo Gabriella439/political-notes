@@ -1,7 +1,3 @@
----
-date: 2020-08-11
----
-
 # Approval voting
 
 > Approval voting is a single-winner voting method that allows voters to

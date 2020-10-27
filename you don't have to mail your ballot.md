@@ -1,7 +1,3 @@
----
-date: 2020-08-09
----
-
 # You don't have to mail your ballot
 
 People commonly refer to absentee voting as "voting by mail" or "mail-in

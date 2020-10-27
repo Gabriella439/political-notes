@@ -1,7 +1,3 @@
----
-date: 2020-08-11
----
-
 # Prefer approval voting over ranked-choice voting
 
 [[approval voting]] improves upon ranked-choice voting in the following ways:
