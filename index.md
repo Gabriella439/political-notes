@@ -2,7 +2,7 @@
 tags: [home]
 ---
 
-# Notes
+# Political notes
 
 This is a collection of notes that I share with people when discussing
 politics.  Feel free to contribute your own fixes and improvements by clicking

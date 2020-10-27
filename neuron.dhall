@@ -1,6 +1,6 @@
-{ siteTitle = "Notes"
+{ siteTitle = "Political notes"
 , author = Some "Gabriel Gonzalez"
-, siteBaseUrl = Some "https://gabriel439.github.io/notes/"
+, siteBaseUrl = Some "https://politicalnotes.org/"
 , theme = "teal"
 , editUrl = Some "https://github.com/Gabriel439/notes/edit/master/"
 , mathJaxSupport = False
