@@ -19,9 +19,10 @@ jobs:
         ./neuron --version  # This extracts the bundle; should take a while
     - name: Build neuron site 🔧
       run: |
-        ./neuron -d $PWD rib && echo -n 'politicalnotes.org' > .neuron/output/CNAME
+        ./neuron -d $PWD rib
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: .neuron/output/
+        cname: politicalnotes.org
