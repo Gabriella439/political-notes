@@ -38,4 +38,4 @@ voting methods to mitigate the impact of
 [vote splitting](https://en.wikipedia.org/wiki/Vote_splitting) and only
 then can a third party meaningfully reform the U.S. political system.
 For example, [[Approval voting]] is one such voting method that supports the
-formation of political parties.
+formation of third parties.
